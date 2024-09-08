@@ -3,3 +3,23 @@
     flex-direction: row;
     align-items: center;
 }
+.alineacion_diagonal{
+    
+    display: inline-block;
+    text-align: justify;
+
+}
+    .alineacion_diagonal div.left{
+        width: 50%;
+        float: left;
+        padding: 50px;
+    }
+    .alineacion_diagonal div.right{
+        width: 50%;
+        float: right;
+        padding: 50px;
+    }
+    .alineacion_diagonal img{
+        width: 500px;
+    }
+
