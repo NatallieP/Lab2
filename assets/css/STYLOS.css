@@ -23,3 +23,11 @@
         width: 500px;
     }
 
+.buttoms{
+    text-align: center  ;
+}
+    .buttoms img{
+        width: 50px;
+        margin: 30px;
+        text-decoration: of;
+    }
