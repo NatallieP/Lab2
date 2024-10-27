@@ -6,9 +6,17 @@
   position: relative;
   margin: auto;
 }
+.slideshow-container2 {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
 
 /* Hide the images by default */
 .mySlides {
+  display: none;
+}
+.mySlides2 {
   display: none;
 }
 
